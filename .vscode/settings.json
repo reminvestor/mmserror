@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/91d80633-5778-4a9e-b703-a50589810e75/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/mmsstatic",
+    "appService.deploySubpath": "."
+}
